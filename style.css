@@ -5,7 +5,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-<!-- NAVBAR SECTION START -->
+/* NAVBAR SECTION START */
 .navbar {
     display: flex;
     justify-content: space-between;
